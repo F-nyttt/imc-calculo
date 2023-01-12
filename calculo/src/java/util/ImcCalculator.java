@@ -1,6 +1,8 @@
+package java.util;
+
 import java.util.Scanner;
 
-public class IMCCalculator {
+public class ImcCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
