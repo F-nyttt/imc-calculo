@@ -1,4 +1,4 @@
-package java.util;
+package br.com.calculator;
 
 import java.util.Scanner;
 
