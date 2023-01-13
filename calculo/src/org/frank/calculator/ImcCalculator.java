@@ -1,4 +1,4 @@
-package br.com.calculator;
+package org.frank.calculator;
 
 import java.util.Scanner;
 
